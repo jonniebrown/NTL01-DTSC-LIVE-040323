@@ -1,6 +1,11 @@
 ![](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
 
+<<<<<<< HEAD
 hi! Just saying something... 
+=======
+A THIRD line of code.
+
+>>>>>>> upstream/main
 
 ### Written Instructions to Connect to This Repository:
 
