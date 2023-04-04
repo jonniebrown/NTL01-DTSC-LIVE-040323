@@ -1,5 +1,7 @@
 ![](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
 
+hi! Just saying something... 
+
 ### Written Instructions to Connect to This Repository:
 
 1. FORK this repository, creating a copy on your own GitHub account
